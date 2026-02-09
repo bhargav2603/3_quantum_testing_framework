@@ -7,6 +7,21 @@ Building Quantum Software in Python — Charlee Stefanski
 ➤ Supporting software discipline
 README MUST HAVE
 
+What knowledge comes from these books
+
+Testing probabilistic programs
+
+Statistical correctness
+
+Noise-aware validation
+
+Reproducibility
+
+Debugging QC systems
+
+
+
+
 Why testing QC is hard
 
 Statistical confidence intervals
